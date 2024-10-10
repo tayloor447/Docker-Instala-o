@@ -1,5 +1,7 @@
 # Instalação do Docker no Windows com WSL
 
+<center><a href="https://freeimage.host/"><img src="https://iili.io/292ARhN.png" alt="292ARhN.png" border="0"></a></center>
+
 Este guia descreve os passos para instalar o Docker no Windows utilizando o **WSL (Windows Subsystem for Linux)** com a distribuição **Ubuntu**.
 
 ## O que é o WSL?
